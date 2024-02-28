@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Artificial Intelligence
+- 📕 I’m currently studying at the University of Trento (Master degree in Artificial Intelligence Systems)
 <!--
 **Francesco-Baroni/Francesco-Baroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
